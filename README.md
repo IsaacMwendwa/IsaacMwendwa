@@ -1,5 +1,4 @@
-[![Header](https://raw.githubusercontent.com/IsaacMwendwa/IsaacMwendwa/main/ds2.jpg "Header")](https://some-url.dev/) [![Header](https://raw.githubusercontent.com/IsaacMwendwa/IsaacMwendwa/main/ds1.jpg "Header")](https://some-url.dev/) [![Header](https://raw.githubusercontent.com/IsaacMwendwa/IsaacMwendwa/main/readme_header.png "Header")](https://some-url.dev/) 
-
+[![Header](https://raw.githubusercontent.com/IsaacMwendwa/IsaacMwendwa/main/ds1.jpg "Header")](https://some-url.dev/)   [![Header](https://raw.githubusercontent.com/IsaacMwendwa/IsaacMwendwa/main/ds2.jpg "Header")](https://some-url.dev/)
 ### Hi there 👋
 
 <!--
