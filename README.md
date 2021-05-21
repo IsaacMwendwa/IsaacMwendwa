@@ -2,7 +2,7 @@
 
 # Hello there! <img src="https://raw.githubusercontent.com/IsaacMwendwa/IsaacMwendwa/main/wave.gif" width="30px">
 
-My name is Isaac Mwendwa and I specialize in Data Science, Data Analytics and Data Engineering.
+#### My name is Isaac Mwendwa and I am a data enthusiast. I therefore specialize in the fields of Data Science, Data Analytics and Data Engineering.
 <!--
 **IsaacMwendwa/IsaacMwendwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
