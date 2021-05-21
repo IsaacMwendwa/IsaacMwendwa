@@ -1,5 +1,6 @@
-[![Header](https://raw.githubusercontent.com/IsaacMwendwa/IsaacMwendwa/main/ds1.jpg "Header")](https://some-url.dev/)   [![Header](https://raw.githubusercontent.com/IsaacMwendwa/IsaacMwendwa/main/ds2.jpg "Header")](https://some-url.dev/)
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/IsaacMwendwa/IsaacMwendwa/main/ds2.jpg "Header")](https://some-url.dev/) [![Header](https://raw.githubusercontent.com/IsaacMwendwa/IsaacMwendwa/main/ds1.jpg "Header")](https://some-url.dev/)
+
+### Hello there <img src="https://raw.githubusercontent.com/IsaacMwendwa/IsaacMwendwa/main/wave.gif" width="30px">
 
 <!--
 **IsaacMwendwa/IsaacMwendwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
