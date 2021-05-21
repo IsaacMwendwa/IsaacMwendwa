@@ -3,6 +3,24 @@
 # Hello there! <img src="https://raw.githubusercontent.com/IsaacMwendwa/IsaacMwendwa/main/wave.gif" width="30px">
 
 #### My name is Isaac Mwendwa and I am a data enthusiast. I therefore specialize in the fields of Data Science, Data Analytics and Data Engineering.
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux,_Windows-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python-Numpy,_Scikit,_Pandas,_Matplotlib,_Tensorflow-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Modeling-Machine_Learning,_Deep_Learning-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web-HTML,_CSS,_Javascript,_PHP-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+<!--
+![](https://img.shields.io/badge/OS--informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS--informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS--informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS--informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS--informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+
+
+
+
+
 <!--
 **IsaacMwendwa/IsaacMwendwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
