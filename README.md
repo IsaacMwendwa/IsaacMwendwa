@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data_Visualization-D3.js,_Matplotlib,_Seaborn-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Version_Control-Git,_Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Databases-Oracle,_MySQL-informational?style=flat&logo=mariadb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Databases-Oracle,_MySQL-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS--informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS--informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
