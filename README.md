@@ -1,6 +1,8 @@
 [![Header](https://raw.githubusercontent.com/IsaacMwendwa/IsaacMwendwa/main/ds2.jpg "Header")](https://some-url.dev/) [![Header](https://raw.githubusercontent.com/IsaacMwendwa/IsaacMwendwa/main/ds1.jpg "Header")](https://some-url.dev/)
+<p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=IsaacMwendwa" alt="visitor badge"/></p>
 
 # Hello there! <img src="https://raw.githubusercontent.com/IsaacMwendwa/IsaacMwendwa/main/wave.gif" width="30px">
+
 
 ### Meet Isaac Mwendwa, an avid Data Specialist; with a keen interest and specialization in Data Science, Data Analytics and Data Engineering
 
