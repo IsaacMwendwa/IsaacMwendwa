@@ -2,7 +2,7 @@
 
 # Hello there! <img src="https://raw.githubusercontent.com/IsaacMwendwa/IsaacMwendwa/main/wave.gif" width="30px">
 
-### Meet Isaac Mwendwa, an avid Data Specialist, with a keen interest in the fields of Data Science, Data Analytics and Data Engineering.
+### Meet Isaac Mwendwa, an avid Data Specialist, with a keen interest and specialization in Data Science, Data Analytics and Data Engineering.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Python-Numpy,_Scikit,_Pandas,_Matplotlib,_Tensorflow-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
