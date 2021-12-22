@@ -7,7 +7,7 @@
 ### Meet Isaac Mwendwa, an avid Data Specialist; with a keen interest and specialization in Data Science, Data Analytics and Data Engineering
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Python-Numpy,_Scikit,_Pandas,_Matplotlib,_Tensorflow,_Flask,_cx__Oracle,_SQLAlchemy,_Psycopg2,_Streamlit,_Hydralit-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python-Numpy,_Scikit,_Pandas,_Matplotlib,_Plotly,_Tensorflow,_Flask,_cx__Oracle,_SQLAlchemy,_Psycopg2,_Streamlit,_Dash,_Hydralit-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Modeling-Machine_Learning,_Deep_Learning-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data_Visualization-Tableau,_Python,_D3.js,_R-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Query_Language-SQL,_PL/SQL-informational?style=flat&logo=access&logoColor=white&color=2bbc8a)
