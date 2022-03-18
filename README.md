@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/Data_Visualization-Tableau,_Python,_D3.js,_R-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Query_Language-SQL,_PL/SQL-informational?style=flat&logo=access&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/RDBMS-Oracle,_PostgreSQL,_MySQL-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/NoSQL_Databases-MongoDB,_Cassandra,_HBase,_Neo4j-informationalstyle=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/NoSQL_Databases-MongoDB,_Cassandra,_HBase,_Neo4j-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Big_Data_Tools-Hadoop,_Apache_Spark-informational?style=flat&logo=apachespark&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Web_Development-HTML,_CSS,_Javascript,_PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
